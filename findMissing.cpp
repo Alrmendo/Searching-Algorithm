@@ -32,13 +32,6 @@ void findMissing(int a[], int n)
         }
         missingNumber = a[i] + 1;
     }
-
-    // while (missingNumber <= n)
-    // {
-    //     cout << missingNumber << " ";
-    //     ++missingNumber;
-    // }
-
     cout << endl;
 }
 
