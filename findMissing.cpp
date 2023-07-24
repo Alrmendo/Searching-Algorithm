@@ -54,7 +54,7 @@ int main()
     cout << "Enter the elements of the array:" << endl;
     inputArr(a, n);
 
-    cout << "Missing numbers in the array are: ";
+    cout << "All the missing numbers in the array are: ";
     findMissing(a, n);
 
     return 0;
